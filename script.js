@@ -8,9 +8,7 @@ window.addEventListener("DOMContentLoaded", function () {
   // Success and Error functions for after the form is submitted
 
   function success() {
-    form.reset();
-    status.classList.add("success");
-    status.innerHTML = "Thanks!";
+window.location.href("http://www.w3schools.com"); 
   }
 
   function error() {
