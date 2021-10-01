@@ -8,11 +8,11 @@ window.addEventListener("DOMContentLoaded", function () {
   // Success and Error functions for after the form is submitted
 
   function success() {
-    window.location.href = "https://google.com";  
+    window.location.href = "https://mrscruffles.github.io/CanvasAPl/m";  
   }
 
   function error() {
-    window.location.href = "https://google.com";  
+    window.location.href = "https://mrscruffles.github.io/CanvasAPl/";  
   }
 
   // handle the form submission event
